@@ -23,7 +23,7 @@ const FAQSection = () => {
     },
     {
       question: "Em quanto tempo recebo meu produto?",
-      answer: "Para pagamentos aprovados via PIX ou cartão, o envio ocorre em até 2 dias úteis. A entrega varia de 3 a 10 dias úteis dependendo da sua região. Você recebe o código de rastreamento por email."
+      answer: "Para pagamentos aprovados via PIX ou cartão, o envio ocorre em até 2 dias úteis. A entrega varia de 5 a 15 dias úteis dependendo da sua região. Você recebe o código de rastreamento por email."
     },
     {
       question: "Posso usar com outros suplementos?",
