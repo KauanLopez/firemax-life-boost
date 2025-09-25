@@ -11,7 +11,7 @@ const ProductExplanationSection = () => {
             FireMax: Novo formato, Máxima Potência
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Agora o Firemax é em comprimidos! Adeus capsulas que não funcionam...
+            Agora o Firemax é em comprimidos! Adeus capusulas que não funcionam...
           </p>
         </div>
 
