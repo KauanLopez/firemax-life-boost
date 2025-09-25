@@ -47,25 +47,6 @@ const ProductExplanationSection = () => {
               </div>
             </Card>
 
-            {/* Drops */}
-            <Card className="p-6 bg-card border-fire-orange/20">
-              <div className="flex items-start gap-4">
-                <div className="text-4xl">💧</div>
-                <div>
-                  <h3 className="text-xl font-bold mb-3 text-fire-gold">
-                    FireMax Gotas
-                  </h3>
-                  <p className="text-foreground mb-4">
-                    <strong>Como usar:</strong> Aplique 10 gotas debaixo da língua, aguarde 1 minuto antes de engolir. Use pela manhã em jejum.
-                  </p>
-                  <div className="bg-fire-orange/10 p-3 rounded-lg">
-                    <p className="text-sm text-foreground">
-                      <strong>💡 Dica:</strong> Absorção mais rápida que as cápsulas. Ideal para quem tem pressa.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </Card>
 
             {/* Usage tips */}
             <div className="bg-fire-red/10 p-6 rounded-lg border-2 border-fire-red/20">
