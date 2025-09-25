@@ -6,32 +6,32 @@ const BenefitsSection = () => {
     {
       icon: "⚡",
       title: "Mais Energia e Disposição",
-      description: "Sinta-se revitalizado desde o primeiro dia. Energia que dura o dia todo, naturalmente."
+      description: "Pode ajudar você a se sentir mais revitalizado ao longo do dia, com mais energia natural."
     },
     {
       icon: "💪",
-      title: "Confiança Renovada",
-      description: "Recupere sua autoestima e confiança. Seja o homem que você sempre foi."
+      title: "Auxilia na Confiança",
+      description: "Contribui para que você se sinta mais confiante e bem consigo mesmo."
     },
     {
       icon: "🌿",
       title: "Fórmula Natural e Segura",
-      description: "Ingredientes 100% naturais, sem efeitos colaterais. Aprovado pelos órgãos competentes."
+      description: "Ingredientes naturais selecionados, formulado seguindo boas práticas de fabricação."
     },
     {
-      icon: "🚀",
-      title: "Resultados Rápidos",
-      description: "Primeiros resultados em 7 dias. Transformação completa em 30 dias."
+      icon: "🎯",
+      title: "Pode Trazer Benefícios",
+      description: "Suplementação que pode auxiliar no bem-estar e vitalidade masculina."
     },
     {
       icon: "🧠",
-      title: "Melhora do Foco Mental",
-      description: "Concentração aprimorada e clareza mental para todas as suas atividades."
+      title: "Contribui para o Foco",
+      description: "Pode ajudar na concentração e clareza mental para suas atividades diárias."
     },
     {
       icon: "❤️",
-      title: "Relacionamentos Renovados",
-      description: "Melhore sua intimidade e fortaleça seus relacionamentos pessoais."
+      title: "Bem-estar Geral",
+      description: "Pode contribuir para o seu bem-estar físico e emocional no dia a dia."
     }
   ];
 
@@ -40,10 +40,10 @@ const BenefitsSection = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-section-title mb-6 text-fire">
-            Por Que Mais de 15 Mil Homens Escolheram FireMax?
+            Por Que Milhares de Homens Escolheram FireMax?
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Descubra os benefícios que estão transformando a vida de homens em todo o Brasil
+            Descubra os benefícios que podem contribuir para sua energia e bem-estar
           </p>
         </div>
 
@@ -66,11 +66,11 @@ const BenefitsSection = () => {
         {/* Call to action */}
         <div className="text-center mt-12">
           <p className="text-lg mb-6 text-muted-foreground">
-            Não espere mais para transformar sua vida!
+            Invista no seu bem-estar com FireMax!
           </p>
-          <div className="inline-block px-8 py-4 bg-fire-red/20 rounded-lg border-2 border-fire-red">
-            <p className="text-fire-red font-bold text-lg">
-              🔥 OFERTA LIMITADA: Apenas hoje com 50% OFF
+          <div className="inline-block px-8 py-4 bg-fire-orange/20 rounded-lg border-2 border-fire-orange">
+            <p className="text-fire-orange font-bold text-lg">
+              🎁 Oferta especial disponível por tempo limitado
             </p>
           </div>
         </div>

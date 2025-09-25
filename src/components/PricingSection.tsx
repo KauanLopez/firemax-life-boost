@@ -67,11 +67,11 @@ const PricingSection = () => {
             Escolha Seu Pacote FireMax
           </h2>
           <p className="text-lg text-muted-foreground mb-4">
-            Quanto mais você investe na sua saúde, mais você economiza
+            Escolha o pacote ideal para você
           </p>
-          <div className="inline-block bg-fire-red/20 px-6 py-3 rounded-lg border-2 border-fire-red">
-            <p className="text-fire-red font-bold">
-              🔥 OFERTA LIMITADA - Apenas nas próximas 24 horas
+          <div className="inline-block bg-fire-orange/20 px-6 py-3 rounded-lg border-2 border-fire-orange">
+            <p className="text-fire-orange font-bold">
+              🎁 Ofertas especiais disponíveis por tempo limitado
             </p>
           </div>
         </div>
@@ -142,22 +142,18 @@ const PricingSection = () => {
 
         {/* Urgency Timer */}
         <div className="text-center">
-          <Card className="inline-block p-6 bg-fire-red/10 border-2 border-fire-red">
-            <h3 className="text-xl font-bold mb-4 text-fire-red">
-              ⏰ Esta oferta expira em:
+          <Card className="inline-block p-6 bg-fire-orange/10 border-2 border-fire-orange">
+            <h3 className="text-xl font-bold mb-4 text-fire-orange">
+              ⏰ Oferta especial disponível ainda hoje:
             </h3>
             <div className="flex justify-center gap-4 text-center">
-              <div className="bg-fire-red text-white px-3 py-2 rounded font-bold">
+              <div className="bg-fire-orange text-white px-3 py-2 rounded font-bold">
                 <div className="text-xl">23</div>
                 <div className="text-xs">HORAS</div>
               </div>
-              <div className="bg-fire-red text-white px-3 py-2 rounded font-bold">
+              <div className="bg-fire-orange text-white px-3 py-2 rounded font-bold">
                 <div className="text-xl">47</div>
                 <div className="text-xs">MINUTOS</div>
-              </div>
-              <div className="bg-fire-red text-white px-3 py-2 rounded font-bold">
-                <div className="text-xl">32</div>
-                <div className="text-xs">SEGUNDOS</div>
               </div>
             </div>
           </Card>

@@ -26,14 +26,14 @@ const HeroSection = () => {
 
         {/* Main Title */}
         <h1 className="text-hero text-gold mb-6 fire-animation high-contrast">
-          FireMax – 10x Mais Potente <br />
+          FireMax – Energia e Vitalidade <br />
           <span className="text-fire">para Sua Vida</span>
         </h1>
 
         {/* Subtitle */}
         <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto text-foreground high-contrast font-medium">
-          A revolução natural que vai transformar sua energia, 
-          confiança e disposição em apenas 30 dias
+          O suplemento natural que pode ajudar a melhorar sua energia, 
+          confiança e disposição para aproveitar a vida
         </p>
 
         {/* CTA Button */}

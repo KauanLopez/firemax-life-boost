@@ -7,19 +7,19 @@ const SocialProofSection = () => {
     {
       name: "Carlos Silva",
       age: 52,
-      text: "Aos 52 anos, pensei que havia perdido minha energia para sempre. Com o FireMax, me sinto como aos 30!",
+      text: "Aos 52 anos, sentia que minha energia estava baixa. Com o FireMax, me sinto mais disposto e confiante no dia a dia!",
       avatar: "👨‍💼"
     },
     {
       name: "Maria Santos",
       age: 48,
-      text: "Resultados incríveis em apenas 2 semanas! Minha confiança voltou e meu marido notou a diferença.",
+      text: "Comprei para meu marido e ele ficou muito satisfeito. Mais energia para trabalhar e aproveitar os momentos em família.",
       avatar: "👩‍⚕️"
     },
     {
       name: "Roberto Oliveira",
       age: 55,
-      text: "Natural, seguro e eficaz. FireMax mudou minha vida e meu relacionamento. Recomendo 100%!",
+      text: "Natural e seguro. FireMax me ajudou a ter mais disposição e bem-estar. Recomendo para quem busca mais vitalidade!",
       avatar: "👨‍🔧"
     }
   ];
@@ -28,7 +28,7 @@ const SocialProofSection = () => {
     <section className="py-16 bg-card">
       <div className="container mx-auto px-4">
         <h2 className="text-section-title text-center mb-12 text-gold">
-          Mais de 15.000 Homens Já Transformaram Suas Vidas
+          Mais de 15.000 Homens Confiam no FireMax
         </h2>
 
         {/* Testimonials Grid */}

@@ -7,27 +7,27 @@ const FAQSection = () => {
   const faqs = [
     {
       question: "O FireMax é seguro?",
-      answer: "Sim, o FireMax é 100% natural e seguro. Todos os ingredientes são aprovados pela ANVISA e passaram por rigorosos testes de qualidade. Não há efeitos colaterais conhecidos quando usado conforme as instruções."
+      answer: "Sim, o FireMax é um suplemento natural formulado seguindo boas práticas de fabricação. Todos os ingredientes são selecionados criteriosamente. Recomendamos consultar um profissional de saúde antes de iniciar qualquer suplementação."
     },
     {
       question: "Tem efeitos colaterais?",
-      answer: "Não foram relatados efeitos colaterais com o uso do FireMax. Por ser uma fórmula completamente natural, é muito bem tolerado. Porém, se você tem alguma condição médica específica, consulte seu médico antes do uso."
+      answer: "Não foram relatados efeitos adversos significativos com o uso do FireMax quando usado conforme orientado. Por ser uma fórmula natural, é geralmente bem tolerado. Caso tenha alguma condição médica específica, consulte seu médico."
     },
     {
-      question: "Quanto tempo leva para ver resultados?",
-      answer: "A maioria dos usuários percebe os primeiros resultados entre 7 a 15 dias. Para resultados completos e duradouros, recomendamos o uso contínuo por 30 dias. Cada organismo responde de forma única."
+      question: "Como devo usar o produto?",
+      answer: "O FireMax pode ser usado conforme as instruções na embalagem. Recomendamos uso consistente para potencializar os benefícios. Os resultados podem variar entre indivíduos."
     },
     {
-      question: "Qual a garantia?",
-      answer: "Oferecemos garantia total de 90 dias. Se você não ficar satisfeito com os resultados, devolvemos 100% do seu dinheiro, sem perguntas, sem burocracia. Sua satisfação é nossa prioridade."
+      question: "Qual a política de satisfação?",
+      answer: "Oferecemos política de satisfação de 90 dias. Se você não estiver satisfeito com sua compra, entre em contato conosco através dos nossos canais de atendimento para verificar as condições de devolução."
     },
     {
       question: "Em quanto tempo recebo meu produto?",
-      answer: "Para pagamentos aprovados via PIX ou cartão, o envio ocorre em 24h úteis. A entrega varia de 3 a 7 dias úteis dependendo da sua região. Você recebe o código de rastreamento por email e WhatsApp."
+      answer: "Para pagamentos aprovados via PIX ou cartão, o envio ocorre em até 2 dias úteis. A entrega varia de 3 a 10 dias úteis dependendo da sua região. Você recebe o código de rastreamento por email."
     },
     {
-      question: "Posso tomar com outros medicamentos?",
-      answer: "Como o FireMax é natural, geralmente não há interações. Porém, se você toma medicamentos controlados, recomendamos consultar seu médico antes do uso para total segurança."
+      question: "Posso usar com outros suplementos?",
+      answer: "Como o FireMax é um suplemento natural, geralmente não há contraindicações. Porém, se você usa outros suplementos ou medicamentos, recomendamos consultar um profissional de saúde para orientação personalizada."
     }
   ];
 

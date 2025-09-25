@@ -9,6 +9,7 @@ import FAQSection from '@/components/FAQSection';
 import PricingSection from '@/components/PricingSection';
 import GuaranteeSection from '@/components/GuaranteeSection';
 import FinalCTASection from '@/components/FinalCTASection';
+import HealthDisclaimer from '@/components/HealthDisclaimer';
 
 const Index = () => {
   return (
@@ -25,6 +26,7 @@ const Index = () => {
       <FAQSection />
       <GuaranteeSection />
       <FinalCTASection />
+      <HealthDisclaimer />
     </div>
   );
 };

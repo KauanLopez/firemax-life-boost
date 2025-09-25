@@ -51,9 +51,9 @@ const UrgencyBanner = () => {
           {/* Message */}
           <div className="flex-1 text-center md:text-left">
             <p className="text-fire-gold font-bold text-sm md:text-base leading-tight">
-              🚨 <span className="text-fire-orange">Atenção:</span> comprando hoje você garante{' '}
+              📦 <span className="text-fire-orange">Promoção especial:</span> comprando hoje você garante{' '}
               <span className="text-fire-yellow bg-fire-red/20 px-2 py-1 rounded">FRETE GRÁTIS!</span>{' '}
-              Promoção válida por tempo limitado.
+              Válido por tempo limitado.
             </p>
           </div>
 

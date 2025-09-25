@@ -25,12 +25,12 @@ const GuaranteeSection = () => {
             </div>
 
             <h2 className="text-section-title mb-6 text-fire">
-              Garantia Total de Satisfação
+              Política de Satisfação
             </h2>
             
             <p className="text-xl mb-8 text-foreground leading-relaxed">
               <strong className="text-fire-gold">
-                "Se não funcionar para você, devolvemos seu dinheiro sem burocracia"
+                "Sua satisfação é nossa prioridade. Confiamos na qualidade do FireMax"
               </strong>
             </p>
 
@@ -86,22 +86,22 @@ const GuaranteeSection = () => {
 
             <div className="bg-fire-orange/10 p-6 rounded-lg mb-8">
               <h3 className="text-lg font-bold mb-3 text-fire-orange">
-                💰 Por Que Oferecemos Esta Garantia?
+                💎 Nossa Confiança no Produto
               </h3>
               <p className="text-foreground leading-relaxed">
-                Porque temos <strong>absoluta confiança</strong> na qualidade e eficácia do FireMax. 
-                Mais de 15.000 homens já transformaram suas vidas com nosso produto. 
+                Temos <strong>confiança</strong> na qualidade e formulação do FireMax. 
+                Milhares de homens já escolheram nosso produto para auxiliar em sua rotina de bem-estar. 
                 Sua satisfação é nossa maior prioridade.
               </p>
             </div>
 
             <div className="space-y-4">
               <p className="text-lg text-muted-foreground">
-                Não há risco para você. Apenas resultados garantidos.
+                Experimente FireMax com tranquilidade e segurança.
               </p>
               
               <FireMaxButton variant="fire" size="xl" className="animate-pulse">
-                🔥 QUERO MINHA GARANTIA - COMPRAR AGORA
+                💎 QUERO EXPERIMENTAR O FIREMAX
               </FireMaxButton>
               
               <p className="text-sm text-muted-foreground">
