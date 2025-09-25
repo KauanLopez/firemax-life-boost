@@ -7,19 +7,19 @@ const SocialProofSection = () => {
     {
       name: "Carlos Silva",
       age: 52,
-      text: "Aos 52 anos, sentia que minha energia estava baixa. Com o FireMax, me sinto mais disposto e confiante no dia a dia!",
+      text: "Voltei a ter firmeza e potência na hora H. Hoje me sinto confiante e com muito mais energia!",
       avatar: "👨‍💼"
     },
     {
       name: "Maria Santos",
       age: 48,
-      text: "Comprei para meu marido e ele ficou muito satisfeito. Mais energia para trabalhar e aproveitar os momentos em família.",
+      text: "Comprei para meu marido e a diferença foi incrível! Ele ganhou disposição e não me deixa mais na mão.",
       avatar: "👩‍⚕️"
     },
     {
       name: "Roberto Oliveira",
       age: 55,
-      text: "Natural e seguro. FireMax me ajudou a ter mais disposição e bem-estar. Recomendo para quem busca mais vitalidade!",
+      text: "FireMax mudou minha vida íntima. Recuperou meu desempenho e trouxe de volta a confiança no quarto!",
       avatar: "👨‍🔧"
     }
   ];
