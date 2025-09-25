@@ -1,4 +1,5 @@
 import React from 'react';
+import UrgencyBanner from '@/components/UrgencyBanner';
 import HeroSection from '@/components/HeroSection';
 import SocialProofSection from '@/components/SocialProofSection';
 import BenefitsSection from '@/components/BenefitsSection';
@@ -12,11 +13,14 @@ import FinalCTASection from '@/components/FinalCTASection';
 const Index = () => {
   return (
     <div className="min-h-screen">
+      <UrgencyBanner />
       <HeroSection />
       <SocialProofSection />
       <BenefitsSection />
       <ProductExplanationSection />
-      <PricingSection />
+      <div id="pricing-section">
+        <PricingSection />
+      </div>
       <PaymentSection />
       <FAQSection />
       <GuaranteeSection />
