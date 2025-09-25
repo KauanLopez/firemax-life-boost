@@ -6,32 +6,32 @@ const BenefitsSection = () => {
     {
       icon: "⚡",
       title: "Mais Energia e Disposição",
-      description: "Pode ajudar você a se sentir mais revitalizado ao longo do dia, com mais energia natural."
+      description: "Recupere firmeza e disposição para surpreender na hora H com muito mais vitalidade."
     },
     {
       icon: "💪",
       title: "Auxilia na Confiança",
-      description: "Contribui para que você se sinta mais confiante e bem consigo mesmo."
+      description: "Apoia sua performance e confiança, ajudando você a não deixar sua parceira na mão."
     },
     {
       icon: "🌿",
       title: "Fórmula Natural e Segura",
-      description: "Ingredientes naturais selecionados, formulado seguindo boas práticas de fabricação."
+      description: "Fórmula natural, desenvolvida para resultados eficazes sem riscos ou efeitos colaterais."
     },
     {
       icon: "🎯",
       title: "Pode Trazer Benefícios",
-      description: "Suplementação que pode auxiliar no bem-estar e vitalidade masculina."
+      description: "Contribui para maior tempo de desempenho, trazendo energia extra quando você mais precisa."
     },
     {
       icon: "🧠",
       title: "Contribui para o Foco",
-      description: "Pode ajudar na concentração e clareza mental para suas atividades diárias."
+      description: "Ajuda a eliminar insegurança, aumentando sua clareza e controle no momento certo."
     },
     {
       icon: "❤️",
       title: "Bem-estar Geral",
-      description: "Pode contribuir para o seu bem-estar físico e emocional no dia a dia."
+      description: "Fortalece a vitalidade masculina e devolve prazer e satisfação ao relacionamento."
     }
   ];
 
