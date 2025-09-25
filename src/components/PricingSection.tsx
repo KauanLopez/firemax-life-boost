@@ -8,15 +8,14 @@ const PricingSection = () => {
       title: "Teste FireMax",
       subtitle: "1 Frasco",
       duration: "30 dias",
-      originalPrice: "R$ 197,00",
-      price: "R$ 97,00",
-      installments: "ou 3x de R$ 32,33",
+      originalPrice: "R$ 297,00",
+      price: "R$ 197,00",
+      installments: "Parcelamento a consultar na compra",
       savings: null,
       highlight: false,
       features: [
         "1 Frasco do FireMax",
         "30 dias de tratamento",
-        "Frete grátis",
         "Garantia de 90 dias"
       ]
     },
@@ -25,17 +24,15 @@ const PricingSection = () => {
       subtitle: "3 Frascos",
       duration: "90 dias",
       originalPrice: "R$ 591,00",
-      price: "R$ 197,00",
-      installments: "ou 6x de R$ 32,83",
+      price: "R$ 297,00",
+      installments: "Parcelamento a consultar na compra",
       savings: "Economize R$ 394",
       highlight: true,
       features: [
         "3 Frascos do FireMax",
         "90 dias de tratamento completo",
-        "Frete grátis para todo Brasil",
         "Garantia de 90 dias",
         "Suporte VIP por WhatsApp",
-        "E-book exclusivo de dicas"
       ]
     },
     {
@@ -43,17 +40,15 @@ const PricingSection = () => {
       subtitle: "5 Frascos",
       duration: "150 dias",
       originalPrice: "R$ 985,00",
-      price: "R$ 297,00",
-      installments: "ou 9x de R$ 33,00",
+      price: "R$ 397,00",
+      installments: "Parcelamento a consultar na compra",
       savings: "Economize R$ 688",
       highlight: false,
       features: [
         "5 Frascos do FireMax",
         "150 dias de tratamento",
-        "Frete grátis express",
         "Garantia estendida 120 dias",
         "Suporte VIP prioritário",
-        "E-book + Curso online exclusivo",
         "Consulta nutricional gratuita"
       ]
     }
