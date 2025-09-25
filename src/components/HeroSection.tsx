@@ -33,7 +33,7 @@ const HeroSection = () => {
         {/* Subtitle */}
         <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto text-foreground high-contrast font-medium">
           O suplemento natural que pode ajudar a melhorar sua energia, 
-          confiança e disposição para aproveitar a vida
+          confiança e disposição na cama.
         </p>
 
         {/* CTA Button */}
